@@ -1,7 +1,7 @@
 /****************************************************************************************
  * Objetivo: Criar uma API para manipular o Banco de Dados
  * Data: 21/05/2023
- * Autor: Octavio Goncalves
+ * Autor: Arthur Monteiro
  * Versão: 1.0
  * 
  * Para criar a API devemos instalar os seguintes pacotes
